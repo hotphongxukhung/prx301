@@ -1,0 +1,2155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><body class="bg-body">
+<noscript class="bg-body">
+<iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-KGN97ZG" style="display:none;visibility:hidden" width="0">
+</iframe>
+</noscript>
+<header class="header">
+<div class="container">
+<div class="row">
+<div class="col-lg-2 col-md-2 col-100-h">
+<button class="navbar-toggle collapsed visible-sm visible-xs" id="trigger-mobile" type="button">
+<span class="sr-only">
+Toggle navigation</span>
+<span class="icon-bar">
+</span>
+<span class="icon-bar">
+</span>
+<span class="icon-bar">
+</span>
+</button>
+<div class="logo">
+<a class="logo-wrapper" href="/" title="WORLDPHONE.VN">
+<img alt="logo WORLDPHONE.VN" data-lazyload="//bizweb.dktcdn.net/100/168/366/themes/713148/assets/logo.png?1593241674376" src="//bizweb.dktcdn.net/100/168/366/themes/713148/assets/loader.svg?1593241674376"/>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="mobile-cart visible-sm visible-xs">
+<a href="/cart" title="Giỏ hàng">
+<i class="fa fa-cart-arrow-down">
+</i>
+<div class="cart-right">
+<span class="count_item_pr">
+0</span>
+</div>
+</a>
+</div>
+<div class="col-lg-3 col-md-3 add-arrow">
+<form action="/search" class="search-bar has-validation-callback" method="get" role="search">
+<input autocomplete="off" class="input-group-field search-text" name="query" placeholder="Tìm kiếm..." type="search" value=""/>
+<button class="btn icon-fallback-text">
+<svg xmlns="http://www.w3.org/1999/xlink" height="20px" style="enable-background:new 0 0 451 451;" version="1.1" viewBox="0 0 451 451" width="20px" x="0px" xmlspace="preserve" y="0px">
+<g xmlns="http://www.w3.org/1999/xlink" height="20px" style="enable-background:new 0 0 451 451;" version="1.1" viewBox="0 0 451 451" width="20px" x="0px" xmlspace="preserve" y="0px">
+<g xmlns="http://www.w3.org/1999/xlink" height="20px" style="enable-background:new 0 0 451 451;" version="1.1" viewBox="0 0 451 451" width="20px" x="0px" xmlspace="preserve" y="0px">
+<path class="active-path" d="M447.05,428l-109.6-109.6c29.4-33.8,47.2-77.9,47.2-126.1C384.65,86.2,298.35,0,192.35,0C86.25,0,0.05,86.3,0.05,192.3   s86.3,192.3,192.3,192.3c48.2,0,92.3-17.8,126.1-47.2L428.05,447c2.6,2.6,6.1,4,9.5,4s6.9-1.3,9.5-4   C452.25,441.8,452.25,433.2,447.05,428z M26.95,192.3c0-91.2,74.2-165.3,165.3-165.3c91.2,0,165.3,74.2,165.3,165.3   s-74.1,165.4-165.3,165.4C101.15,357.7,26.95,283.5,26.95,192.3z" data-old_color="#f20000" data-original="#000000" fill="#f20000"/>
+</g>
+</g>
+</svg>
+</button>
+</form>
+<div class="arrow-left">
+</div>
+</div>
+<div class="col-md-7 col-lg-7 nav-bg-white hidden-sm hidden-xs">
+<ul class="nav" id="nav">
+<li class="nav-item ">
+<a class="nav-link" href="/" title="TRANG CHỦ">
+TRANG CHỦ</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link" href="/dien-thoai-blackberry" title="ĐIỆN THOẠI BLACKBERRY">
+ĐIỆN THOẠI BLACKBERRY<i class="fa fa-angle-down" data-toggle="dropdown">
+</i>
+</a>
+<ul class="dropdown-menu">
+<li class="nav-item-lv2">
+<a class="nav-link" href="/blackberry-os" title="BLACKBERRY OS">
+BLACKBERRY OS</a>
+</li>
+</ul>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/blackberry-10" title="BLACKBERRY 10">
+BLACKBERRY 10</a>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/blackberry-android" title="BLACKBERRY ANDROID">
+BLACKBERRY ANDROID</a>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/blackberry-cao-cap" title="BLACKBERRY CAO CẤP">
+BLACKBERRY CAO CẤP</a>
+</li>
+</ul>
+<li class="nav-item active">
+<a class="nav-link" href="/dien-thoai-android" title="ĐIỆN THOẠI ANDROID">
+ĐIỆN THOẠI ANDROID<i class="fa fa-angle-down" data-toggle="dropdown">
+</i>
+</a>
+<ul class="dropdown-menu">
+<li class="nav-item-lv2">
+<a class="nav-link" href="/htc" title="ĐIỆN THOẠI HTC">
+ĐIỆN THOẠI HTC</a>
+</li>
+</ul>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/lg" title="ĐIỆN THOẠI LG">
+ĐIỆN THOẠI LG</a>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/samsung" title="ĐIỆN THOẠI SAMSUNG">
+ĐIỆN THOẠI SAMSUNG</a>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/google" title="ĐIỆN THOẠI GOOGLE">
+ĐIỆN THOẠI GOOGLE</a>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/motorola" title="ĐIỆN THOẠI MOTOROLA">
+ĐIỆN THOẠI MOTOROLA</a>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/dien-thoai-sony" title="ĐIỆN THOẠI SONY">
+ĐIỆN THOẠI SONY</a>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/dien-thoai-2-sim" title="ĐIỆN THOẠI 2 SIM">
+ĐIỆN THOẠI 2 SIM</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link" href="/iphone" title="APPLE IPHONE">
+APPLE IPHONE<i class="fa fa-angle-down" data-toggle="dropdown">
+</i>
+</a>
+<ul class="dropdown-menu">
+<li class="nav-item-lv2">
+<a class="nav-link" href="/iphone-se-2020" title="IPHONE SE 2020">
+IPHONE SE 2020</a>
+</li>
+</ul>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/iphone-xs-xs-max" title="IPHONE XS | XS MAX">
+IPHONE XS | XS MAX</a>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/iphone-x-iphone-xr" title="IPHONE X | XR">
+IPHONE X | XR</a>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/iphone-8-8-plus" title="IPHONE 8 | 8 PLUS">
+IPHONE 8 | 8 PLUS</a>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/iphone-7-7-plus" title="IPHONE 7 | 7 PLUS">
+IPHONE 7 | 7 PLUS</a>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/iphone-6-6s-6s-plus" title="IPHONE 6 | 6S | 6S PLUS">
+IPHONE 6 | 6S | 6S PLUS</a>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/iphone-5-iphone-5s" title="IPHONE 5 | 5S">
+IPHONE 5 | 5S</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link" href="/khuyen-mai" title="KHUYẾN MÃI">
+KHUYẾN MÃI</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link" href="/linh-phu-kien-chinh-hang" title="LINH PHỤ KIỆN">
+LINH PHỤ KIỆN<i class="fa fa-angle-down" data-toggle="dropdown">
+</i>
+</a>
+<ul class="dropdown-menu">
+<li class="nav-item-lv2">
+<a class="nav-link" href="/bao-gia" title="BÁO GIÁ LINH KIỆN">
+BÁO GIÁ LINH KIỆN</a>
+</li>
+</ul>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/sac-cap" title="SẠC - CÁP">
+SẠC - CÁP</a>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/tai-nghe-loa" title="TAI NGHE - LOA">
+TAI NGHE - LOA</a>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/bao-da-op-lung" title="BAO DA - ỐP LƯNG">
+BAO DA - ỐP LƯNG</a>
+</li>
+<li class="nav-item-lv2">
+<a class="nav-link" href="/tai-nghe" title="THẺ NHỚ">
+THẺ NHỚ</a>
+</li>
+<li class="dropdown-submenu nav-item-lv2">
+<a class="nav-link" href="/linh-kien-blackberry" title="LINH KIỆN BLACKBERRY">
+LINH KIỆN BLACKBERRY<i class="fa fa-angle-right">
+</i>
+</a>
+<ul class="dropdown-menu">
+<li class="nav-item-lv3">
+<a class="nav-link" href="/man-hinh-blackberry" title="MÀN HÌNH BLACKBERRY">
+MÀN HÌNH BLACKBERRY</a>
+</li>
+</ul>
+</li>
+<li class="nav-item-lv3">
+<a class="nav-link" href="/ban-phim-blackberry" title="BÀN PHÍM BLACKBERRY">
+BÀN PHÍM BLACKBERRY</a>
+</li>
+<li class="nav-item-lv3">
+<a class="nav-link" href="/camera-blackberry" title="CAMERA BLACKBERRY">
+CAMERA BLACKBERRY</a>
+</li>
+<li class="nav-item-lv3">
+<a class="nav-link" href="/bo-vo-blackberry" title="BỘ VỎ BLACKBERRY">
+BỘ VỎ BLACKBERRY</a>
+</li>
+<li class="nav-item-lv3">
+<a class="nav-link" href="/pin" title="PIN">
+PIN</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link" href="/tin-cong-nghe" title="NEWS &amp; TIPS">
+NEWS &amp; TIPS</a>
+</li>
+<li class="nav-item ">
+<a class="nav-link" href="/do-choi-cong-nghe" title="ĐỒ CHƠI SỐ">
+ĐỒ CHƠI SỐ</a>
+</li>
+</div>
+</header>
+<section class="bread-crumb margin-bottom-10">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<ul class="breadcrumb" itemscope="true" itemtype="http://data-vocabulary.org/Breadcrumb">
+<li class="home">
+<a href="/" itemprop="url" title="Trang chủ">
+<span itemprop="title">
+Trang chủ</span>
+</a>
+<span itemprop="title">
+<i class="fa fa-angle-right">
+</i>
+</span>
+</li>
+<li class="fa fa-angle-right">
+<strong class="fa fa-angle-right">
+<span itemprop="title">
+ĐIỆN THOẠI ANDROID</span>
+</strong>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="collections-slider owl-carousel not-dqowl">
+</div>
+</div>
+</div>
+</div>
+<section class="main_container collection col-md-12">
+<h1 class="title-collections">
+Chuyên Điện Thoại Android Xách Tay Giá Rẻ Uy Tín Lâu Năm</h1>
+<div class="filter-mobile-tittle hidden-lg hidden-md">
+Tìm theo</div>
+<div class="clearfix">
+</div>
+<aside class="ant-sidebar sidebar">
+<div class="aside-filter clearfix">
+<div class="heading hidden-sm hidden-xs">
+Tìm theo:</div>
+</div>
+<div class="aside-hidden-mobile">
+<div class="filter-container">
+<aside class="aside-item filter-vendor">
+<div class="aside-title">
+Thương hiệu</div>
+</aside>
+</div>
+</div>
+<div class="aside-content filter-group">
+<ul class="filter-vendor">
+<li class="filter-item filter-item--check-box filter-item--green ">
+<label class="google" data-filter="google" for="filter-google">
+<input data-field="vendor.filter_key" data-group="Hãng" data-operator="OR" data-text="Google" id="filter-google" onchange="toggleFilter(this)" type="checkbox" value="(&amp;#34;Google&amp;#34;)"/>
+<i class="fa">
+</i>
+Google</label>
+</li>
+<li class="filter-item filter-item--check-box filter-item--green ">
+<label class="htc" data-filter="htc" for="filter-htc">
+<input data-field="vendor.filter_key" data-group="Hãng" data-operator="OR" data-text="HTC" id="filter-htc" onchange="toggleFilter(this)" type="checkbox" value="(&amp;#34;HTC&amp;#34;)"/>
+<i class="fa">
+</i>
+HTC</label>
+</li>
+<li class="filter-item filter-item--check-box filter-item--green ">
+<label class="lg" data-filter="lg" for="filter-lg">
+<input data-field="vendor.filter_key" data-group="Hãng" data-operator="OR" data-text="LG" id="filter-lg" onchange="toggleFilter(this)" type="checkbox" value="(&amp;#34;LG&amp;#34;)"/>
+<i class="fa">
+</i>
+LG</label>
+</li>
+<li class="filter-item filter-item--check-box filter-item--green ">
+<label class="motorola" data-filter="motorola" for="filter-motorola">
+<input data-field="vendor.filter_key" data-group="Hãng" data-operator="OR" data-text="Motorola" id="filter-motorola" onchange="toggleFilter(this)" type="checkbox" value="(&amp;#34;Motorola&amp;#34;)"/>
+<i class="fa">
+</i>
+Motorola</label>
+</li>
+<li class="filter-item filter-item--check-box filter-item--green ">
+<label class="samsung" data-filter="samsung" for="filter-samsung">
+<input data-field="vendor.filter_key" data-group="Hãng" data-operator="OR" data-text="Samsung" id="filter-samsung" onchange="toggleFilter(this)" type="checkbox" value="(&amp;#34;Samsung&amp;#34;)"/>
+<i class="fa">
+</i>
+Samsung</label>
+</li>
+<li class="filter-item filter-item--check-box filter-item--green ">
+<label class="sony" data-filter="sony" for="filter-sony">
+<input data-field="vendor.filter_key" data-group="Hãng" data-operator="OR" data-text="Sony" id="filter-sony" onchange="toggleFilter(this)" type="checkbox" value="(&amp;#34;Sony&amp;#34;)"/>
+<i class="fa">
+</i>
+Sony</label>
+</li>
+</ul>
+</div>
+</aside>
+<aside class="aside-item filter-price">
+<div class="aside-title">
+Giá sản phẩm</div>
+<div class="aside-content filter-group">
+<ul class="aside-content filter-group">
+<li class="filter-item filter-item--check-box filter-item--green">
+<span class="filter-item filter-item--check-box filter-item--green">
+<label for="filter-duoi-100-000d">
+<input data-field="price_min" data-group="Khoảng giá" data-operator="OR" data-text="Dưới 100.000đ" id="filter-duoi-100-000d" onchange="toggleFilter(this);" type="checkbox" value="(&lt;100000)"/>
+<i class="fa">
+</i>
+Giá dưới 100.000đ</label>
+</span>
+</li>
+<li class="filter-item filter-item--check-box filter-item--green">
+<span class="filter-item filter-item--check-box filter-item--green">
+<label for="filter-100-000d-200-000d">
+<input data-field="price_min" data-group="Khoảng giá" data-operator="OR" data-text="100.000đ - 200.000đ" id="filter-100-000d-200-000d" onchange="toggleFilter(this)" type="checkbox" value="(&gt;100000 AND &lt;200000)"/>
+<i class="fa">
+</i>
+100.000đ - 200.000đ</label>
+</span>
+</li>
+<li class="filter-item filter-item--check-box filter-item--green">
+<span class="filter-item filter-item--check-box filter-item--green">
+<label for="filter-200-000d-300-000d">
+<input data-field="price_min" data-group="Khoảng giá" data-operator="OR" data-text="200.000đ - 300.000đ" id="filter-200-000d-300-000d" onchange="toggleFilter(this)" type="checkbox" value="(&gt;200000 AND &lt;300000)"/>
+<i class="fa">
+</i>
+200.000đ - 300.000đ</label>
+</span>
+</li>
+<li class="filter-item filter-item--check-box filter-item--green">
+<span class="filter-item filter-item--check-box filter-item--green">
+<label for="filter-300-000d-500-000d">
+<input data-field="price_min" data-group="Khoảng giá" data-operator="OR" data-text="300.000đ - 500.000đ" id="filter-300-000d-500-000d" onchange="toggleFilter(this)" type="checkbox" value="(&gt;300000 AND &lt;500000)"/>
+<i class="fa">
+</i>
+300.000đ - 500.000đ</label>
+</span>
+</li>
+<li class="filter-item filter-item--check-box filter-item--green">
+<span class="filter-item filter-item--check-box filter-item--green">
+<label for="filter-500-000d-1-000-000d">
+<input data-field="price_min" data-group="Khoảng giá" data-operator="OR" data-text="500.000đ - 1.000.000đ" id="filter-500-000d-1-000-000d" onchange="toggleFilter(this)" type="checkbox" value="(&gt;500000 AND &lt;1000000)"/>
+<i class="fa">
+</i>
+500.000đ - 1.000.000đ</label>
+</span>
+</li>
+<li class="filter-item filter-item--check-box filter-item--green">
+<span class="filter-item filter-item--check-box filter-item--green">
+<label for="filter-tren1-000-000d">
+<input data-field="price_min" data-group="Khoảng giá" data-operator="OR" data-text="Trên 1.000.000đ" id="filter-tren1-000-000d" onchange="toggleFilter(this)" type="checkbox" value="(&gt;1000000)"/>
+<i class="fa">
+</i>
+Giá trên 1.000.000đ</label>
+</span>
+</li>
+</ul>
+</div>
+</aside>
+<aside class="aside-item filter-type">
+<div class="aside-title">
+Loại</div>
+<div class="aside-content filter-group">
+<ul class="filter-type">
+<li class="filter-item filter-item--check-box filter-item--green">
+<label data-filter="điện thoại" for="filter-dien-thoai">
+<input data-field="product_type.filter_key" data-group="Loại" data-operator="OR" data-text="Điện Thoại" id="filter-dien-thoai" onchange="toggleFilter(this)" type="checkbox" value="(&amp;#34;Điện Thoại&amp;#34;)"/>
+<i class="fa">
+</i>
+Điện Thoại</label>
+</li>
+</ul>
+</div>
+</aside>
+<aside class="aside-item filter-tag-style-1 tag-filtster">
+<div class="aside-title">
+Kích thước</div>
+<div class="aside-content filter-group">
+<ul class="aside-content filter-group">
+<li class="filter-item filter-item--check-box filter-item--green">
+<span class="filter-item filter-item--check-box filter-item--green">
+<label for="filter-lon">
+<input data-field="tags" data-group="tag2" data-operator="OR" data-text="Lớn" id="filter-lon" onchange="toggleFilter(this)" type="checkbox" value="(Lớn)"/>
+<i class="fa">
+</i>
+Lớn</label>
+</span>
+</li>
+<li class="filter-item filter-item--check-box filter-item--green">
+<span class="filter-item filter-item--check-box filter-item--green">
+<label for="filter-nho">
+<input data-field="tags" data-group="tag2" data-operator="OR" data-text="Nhỏ" id="filter-nho" onchange="toggleFilter(this)" type="checkbox" value="(Nhỏ)"/>
+<i class="fa">
+</i>
+Nhỏ</label>
+</span>
+</li>
+<li class="filter-item filter-item--check-box filter-item--green">
+<span class="filter-item filter-item--check-box filter-item--green">
+<label for="filter-vua">
+<input data-field="tags" data-group="tag2" data-operator="OR" data-text="Vừa" id="filter-vua" onchange="toggleFilter(this)" type="checkbox" value="(Vừa)"/>
+<i class="fa">
+</i>
+Vừa</label>
+</span>
+</li>
+</ul>
+</div>
+</aside>
+<div class="clearfix">
+</div>
+<div class="filter-containers">
+<div class="filter-container__selected-filter" style="display: none;">
+<div class="filter-container__selected-filter-list clearfix">
+<ul class="filter-container__selected-filter-list clearfix">
+</ul>
+<a class="filter-container__clear-all" href="javascript:void(0)" onclick="clearAllFiltered()" title="Bỏ hết">
+Bỏ hết</a>
+</div>
+</div>
+</div>
+<div class="clearfix">
+</div>
+<div class="category-products products category-products-grids">
+<div class="sort-cate clearfix margin-top-10 margin-bottom-10 hidden-sm hidden-xs">
+<div class="sort-cate-left hidden-xs">
+<h3 class="sort-cate-left hidden-xs">
+Xếp theo:</h3>
+<ul class="sort-cate-left hidden-xs">
+<li class="btn-quick-sort alpha-asc">
+<a href="javascript:;" onclick="sortby('alpha-asc')" title="Tên A-Z">
+<i href="javascript:;" onclick="sortby('alpha-asc')" title="Tên A-Z">
+</i>
+Tên A-Z</a>
+</li>
+<li class="btn-quick-sort alpha-desc">
+<a href="javascript:;" onclick="sortby('alpha-desc')" title="Tên Z-A">
+<i href="javascript:;" onclick="sortby('alpha-desc')" title="Tên Z-A">
+</i>
+Tên Z-A</a>
+</li>
+<li class="btn-quick-sort position-desc">
+<a href="javascript:;" onclick="sortby('created-desc')" title="Hàng mới">
+<i href="javascript:;" onclick="sortby('created-desc')" title="Hàng mới">
+</i>
+Hàng mới</a>
+</li>
+<li class="btn-quick-sort price-asc">
+<a href="javascript:;" onclick="sortby('price-asc')" title="Giá thấp đến cao">
+<i href="javascript:;" onclick="sortby('price-asc')" title="Giá thấp đến cao">
+</i>
+Giá thấp đến cao</a>
+</li>
+<li class="btn-quick-sort price-desc">
+<a href="javascript:;" onclick="sortby('price-desc')" title="Giá cao xuống thấp">
+<i href="javascript:;" onclick="sortby('price-desc')" title="Giá cao xuống thấp">
+</i>
+Giá cao xuống thấp</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<section class="products-view products-view-grid">
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/lg-g6-cu" title="LG G6 Quốc Tế Mỹ Cũ">
+</a>
+<div class="relative fix-images">
+<img alt="LG G6 Quốc Tế Mỹ Cũ" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/g6-f25e7566-72eb-45bb-8332-c4a12ef8d6cc.jpg?v=1553842475000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+</div>
+</div>
+</div>
+<h3 alt="LG G6 Quốc Tế Mỹ Cũ" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/g6-f25e7566-72eb-45bb-8332-c4a12ef8d6cc.jpg?v=1553842475000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=">
+LG G6 Quốc Tế Mỹ Cũ</h3>
+<div class="price">
+<strong class="price">
+1.990.000₫</strong>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/google-pixel-2-xl-cu" title="Google Pixel 2 XL (Nobox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="Google Pixel 2 XL (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/px2xl-b978a438-ed95-4e66-9633-97197cf81042.jpg?v=1553843351000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+</div>
+</div>
+</div>
+<h3 alt="Google Pixel 2 XL (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/px2xl-b978a438-ed95-4e66-9633-97197cf81042.jpg?v=1553843351000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=">
+Google Pixel 2 XL (Nobox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+3.990.000₫</strong>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/lg-v40-thinq-cu" title="LG V40 ThinQ (Nobox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="LG V40 ThinQ (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/v40bl.jpg?v=1586517291000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+<label class="per">
+Giảm  16%</label>
+</div>
+</div>
+</div>
+<h3 class="per">
+LG V40 ThinQ (Nobox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+4.590.000₫</strong>
+<span class="price">
+5.490.000₫</span>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/google-pixel-xl-cu" title="Google Pixel XL (Nobox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="Google Pixel XL (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/px-e800905e-1955-4e2a-a3c8-083fe904407e.jpg?v=1553844810000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+<label class="per">
+Giảm  30%</label>
+</div>
+</div>
+</div>
+<h3 class="per">
+Google Pixel XL (Nobox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+2.590.000₫</strong>
+<span class="price">
+3.690.000₫</span>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/google-pixel-2-xl-moi" title="Google Pixel 2 XL (New 100% - Fullbox)">
+</a>
+<div class="relative fix-images">
+<img alt="Google Pixel 2 XL (New 100% - Fullbox)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/px2xl-37abdec5-c3a8-4cca-9a4e-1a393d95212d.jpg?v=1553842555000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+<label class="per">
+Giảm  8%</label>
+</div>
+</div>
+</div>
+<h3 class="per">
+Google Pixel 2 XL (New 100% - Fullbox)</h3>
+<div class="price">
+<strong class="price">
+5.490.000₫</strong>
+<span class="price">
+5.990.000₫</span>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/htc-u11-cu-2-sim" title="HTC U11 Quốc tế 2 SIM (Nobox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="HTC U11 Quốc tế 2 SIM (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/u11-8cbe6960-7e6c-4837-874e-dd22a7362e06.jpg?v=1586517234000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+</div>
+</div>
+</div>
+<h3 alt="HTC U11 Quốc tế 2 SIM (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/u11-8cbe6960-7e6c-4837-874e-dd22a7362e06.jpg?v=1586517234000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=">
+HTC U11 Quốc tế 2 SIM (Nobox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+2.990.000₫</strong>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/lg-g7-thinq-cu" title="LG G7 ThinQ Quốc Tế Mỹ Cũ">
+</a>
+<div class="relative fix-images">
+<img alt="LG G7 ThinQ Quốc Tế Mỹ Cũ" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/lg-g7-thinq-didongviet-1.jpg?v=1553670893000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+<label class="per">
+Giảm  18%</label>
+</div>
+</div>
+</div>
+<h3 class="per">
+LG G7 ThinQ Quốc Tế Mỹ Cũ</h3>
+<div class="price">
+<strong class="price">
+3.290.000₫</strong>
+<span class="price">
+3.990.000₫</span>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/google-pixel-3-cu" title="Google Pixel 3 (Nobox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="Google Pixel 3 (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/px3p-9ad9f43b-d19c-4902-b0ea-a7e763842fa0.jpg?v=1573454065000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+</div>
+</div>
+</div>
+<h3 alt="Google Pixel 3 (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/px3p-9ad9f43b-d19c-4902-b0ea-a7e763842fa0.jpg?v=1573454065000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=">
+Google Pixel 3 (Nobox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+5.590.000₫</strong>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/google-pixel-3-xl-fullbox-cu" title="Google Pixel 3 XL (Fullbox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="Google Pixel 3 XL (Fullbox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/pixel3xl-a9e58cef-6366-4974-a02d-e263638cb490.jpg?v=1554052077943" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+</div>
+</div>
+</div>
+<h3 alt="Google Pixel 3 XL (Fullbox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/pixel3xl-a9e58cef-6366-4974-a02d-e263638cb490.jpg?v=1554052077943" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=">
+Google Pixel 3 XL (Fullbox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+10.990.000₫</strong>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/google-pixel-3-xl-cu" title="Google Pixel 3 XL (Nobox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="Google Pixel 3 XL (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/px3xlb-976f7257-55d1-4a55-9598-703b1332eeb6.jpg?v=1591756266000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+</div>
+</div>
+</div>
+<h3 alt="Google Pixel 3 XL (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/px3xlb-976f7257-55d1-4a55-9598-703b1332eeb6.jpg?v=1591756266000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=">
+Google Pixel 3 XL (Nobox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+6.590.000₫</strong>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/google-pixel-2-cu" title="Google Pixel 2 (Nobox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="Google Pixel 2 (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/px2.jpg?v=1553843429000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+<label class="per">
+Giảm  18%</label>
+</div>
+</div>
+</div>
+<h3 class="per">
+Google Pixel 2 (Nobox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+3.290.000₫</strong>
+<span class="price">
+3.990.000₫</span>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/htc-u11-cu" title="HTC U11 Quốc tế 1 SIM (Nobox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="HTC U11 Quốc tế 1 SIM (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/u11-99c9b3cc-e07e-4f32-8b08-86eceebae538.jpg?v=1570964028000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+</div>
+</div>
+</div>
+<h3 alt="HTC U11 Quốc tế 1 SIM (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/u11-99c9b3cc-e07e-4f32-8b08-86eceebae538.jpg?v=1570964028000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=">
+HTC U11 Quốc tế 1 SIM (Nobox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+2.890.000₫</strong>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/htc-10-my-cu" title="HTC 10 Mỹ (Nobox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="HTC 10 Mỹ (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/htc10.jpg?v=1553841876000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+</div>
+</div>
+</div>
+<h3 alt="HTC 10 Mỹ (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/htc10.jpg?v=1553841876000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=">
+HTC 10 Mỹ (Nobox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+2.190.000₫</strong>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/google-pixel-cu" title="Google Pixel (Nobox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="Google Pixel (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/px-1ec6ca95-5102-470f-82fb-12586a9c3c29.jpg?v=1553844796000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+</div>
+</div>
+</div>
+<h3 alt="Google Pixel (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/px-1ec6ca95-5102-470f-82fb-12586a9c3c29.jpg?v=1553844796000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=">
+Google Pixel (Nobox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+2.290.000₫</strong>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/lg-v20-cu" title="LG V20 Quốc Tế Mỹ (Nobox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="LG V20 Quốc Tế Mỹ (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/v20b.jpg?v=1568611435683" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+</div>
+</div>
+</div>
+<h3 alt="LG V20 Quốc Tế Mỹ (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/v20b.jpg?v=1568611435683" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=">
+LG V20 Quốc Tế Mỹ (Nobox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+1.990.000₫</strong>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/htc-10-evo-cu" title="HTC 10 Evo (Nobox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="HTC 10 Evo (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/htc10evo.jpg?v=1553841975587" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+<label class="per">
+Giảm  10%</label>
+</div>
+</div>
+</div>
+<h3 class="per">
+HTC 10 Evo (Nobox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+1.790.000₫</strong>
+<span class="price">
+1.990.000₫</span>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/samsung-galaxy-note-8-cu" title="Samsung Galaxy Note 8 (Nobox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="Samsung Galaxy Note 8 (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/note8.jpg?v=1546157183287" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+</div>
+</div>
+</div>
+<h3 alt="Samsung Galaxy Note 8 (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/note8.jpg?v=1546157183287" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=">
+Samsung Galaxy Note 8 (Nobox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+5.990.000₫</strong>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/lg-v30-cu" title="LG V30 Quốc Tế Mỹ (Nobox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="LG V30 Quốc Tế Mỹ (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/v30-e5743ce7-96b8-4c98-9ce3-b26ef33b1f0e.jpg?v=1553842348000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+</div>
+</div>
+</div>
+<h3 alt="LG V30 Quốc Tế Mỹ (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/v30-e5743ce7-96b8-4c98-9ce3-b26ef33b1f0e.jpg?v=1553842348000" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=">
+LG V30 Quốc Tế Mỹ (Nobox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+3.490.000₫</strong>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/samsung-galaxy-s9-cu" title="Samsung Galaxy S9 (Nobox - Likenew 99%)">
+</a>
+<div class="relative fix-images">
+<img alt="Samsung Galaxy S9 (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/s9-a0ac0511-d178-4008-8687-0ca8c4bfb389.jpg?v=1556247352127" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+</div>
+</div>
+</div>
+<h3 alt="Samsung Galaxy S9 (Nobox - Likenew 99%)" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/s9-a0ac0511-d178-4008-8687-0ca8c4bfb389.jpg?v=1556247352127" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=">
+Samsung Galaxy S9 (Nobox - Likenew 99%)</h3>
+<div class="price">
+<strong class="price">
+6.390.000₫</strong>
+</div>
+<div class="item-border col-xs-6 col-sm-4 col-md-15 col-lg-15 no-padding">
+<div class="news-item-products">
+<a href="/lg-v35-thinq-cu" title="LG V35 ThinQ Quốc Tế Mỹ Cũ">
+</a>
+<div class="relative fix-images">
+<img alt="LG V35 ThinQ Quốc Tế Mỹ Cũ" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/v35.jpg?v=1558781955400" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA="/>
+</div>
+</div>
+</div>
+<h3 alt="LG V35 ThinQ Quốc Tế Mỹ Cũ" class="img-responsive center-block" data-src="//bizweb.dktcdn.net/thumb/medium/100/168/366/products/v35.jpg?v=1558781955400" src="data:image/gif;base64,R0lGODlhAQABAAAAACwAAAAAAQABAAA=">
+LG V35 ThinQ Quốc Tế Mỹ Cũ</h3>
+<div class="price">
+<strong class="price">
+4.490.000₫</strong>
+</div>
+<div class="clearfix">
+</div>
+<div class="text-xs-right">
+<nav class="text-center">
+<ul class="pagination clearfix">
+<li class="page-item disabled">
+<a class="page-link" href="#" title="«">
+«</a>
+</li>
+<li class="active page-item disabled">
+<a class="page-link" href="javascript:;" title="1">
+1</a>
+</li>
+<li class="page-item">
+<a class="page-link" href="javascript:;" onclick="doSearch(2)" title="2">
+2</a>
+</li>
+<li class="page-item">
+<a class="page-link" href="javascript:;" onclick="doSearch(3)" title="3">
+3</a>
+</li>
+<li class="page-item">
+<a class="page-link" href="javascript:;" onclick="doSearch(4)" title="4">
+4</a>
+</li>
+<li class="page-item">
+<a class="page-link" href="javascript:;" onclick="doSearch(5)" title="5">
+5</a>
+</li>
+<li class="page-item">
+<a class="page-link" href="javascript:;" onclick="doSearch(2)" title="»">
+»</a>
+</li>
+</ul>
+</nav>
+</div>
+</section>
+</section>
+<div class="collections_des_and_menu col-md-12 clearfix">
+</div>
+<div class="collections_description col-md-12">
+</div>
+<script class="collections_description col-md-12">
+var filter = new Bizweb.SearchFilter()
+	
+	filter.addValue("collection", "collections", "1195934", "AND");</script>
+<footer class="footer bg-footer">
+<div class="site-footer">
+<div class="container">
+<div class="footer-inner">
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-3">
+<div class="footer-widget">
+<h3 class="footer-widget">
+<span class="footer-widget">
+Thông tin cửa hàng</span>
+</h3>
+<p class="hotline-number">
+Hotline:<a href="tel:1900.6729">
+1900.6729</a>
+</p>
+<ul class="list-menu">
+<li class="list-menu">
+<a href="/">
+Trang chủ</a>
+</li>
+<li href="/">
+<a href="/collections/all">
+Sản phẩm</a>
+</li>
+<li href="/collections/all">
+<a href="/lien-he">
+Liên hệ</a>
+</li>
+<li href="/lien-he">
+<a href="/he-thong-cua-hang">
+Hệ thống cửa hàng</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-3">
+<div class="footer-widget">
+<h3 class="footer-widget">
+<span class="footer-widget">
+Chính sách</span>
+</h3>
+<ul class="list-menu">
+<li class="list-menu">
+<a href="/chinh-sach-thanh-toan">
+Chính sách thanh toán</a>
+</li>
+<li href="/chinh-sach-thanh-toan">
+<a href="/chinh-sach-van-chuyen">
+Chính sách vận chuyển</a>
+</li>
+<li href="/chinh-sach-van-chuyen">
+<a href="/chinh-sach-doi-tra">
+Chính sách đổi trả</a>
+</li>
+<li href="/chinh-sach-doi-tra">
+<a href="/chinh-sach-bao-hanh">
+Chính sách bảo hành</a>
+</li>
+<li href="/chinh-sach-bao-hanh">
+<a href="/chinh-sach-tra-gop">
+Chính sách trả góp</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-3">
+<div class="footer-widget">
+<h3 class="footer-widget">
+<span class="footer-widget">
+Hỗ trợ khách hàng</span>
+</h3>
+<ul class="list-menu">
+<li class="list-menu">
+<a href="/mua-hang-tu-xa">
+Hướng dẫn mua hàng</a>
+</li>
+<li href="/mua-hang-tu-xa">
+<a href="/giao-nhan-va-thanh-toan">
+Giao nhận và thanh toán</a>
+</li>
+<li href="/giao-nhan-va-thanh-toan">
+<a href="account/register">
+Đăng ký thành viên</a>
+</li>
+<li href="account/register">
+<a href="/tat-ca-san-pham">
+Tất cả sản phẩm</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-3">
+<div class="footer-widget">
+<h3 class="footer-widget">
+<span class="footer-widget">
+Hệ thống cửa hàng</span>
+</h3>
+<div class="item-info">
+<div class="item-info__icon">
+<i aria-hidden="true" class="fa fa-map-marker">
+</i>
+</div>
+</div>
+</div>
+</div>
+<address aria-hidden="true" class="fa fa-map-marker">
+Địa chỉ 1: 128 Thái Hà - Đống Đa - Hà Nội</address>
+<div class="item-info">
+<div class="item-info__icon">
+<i aria-hidden="true" class="fa fa-mobile">
+</i>
+</div>
+</div>
+<p aria-hidden="true" class="fa fa-mobile">
+Hotline 1:<a href="tel:09 8589 8589">
+09 8589 8589</a>
+</p>
+<div class="item-info">
+<div class="item-info__icon">
+<i aria-hidden="true" class="fa fa-map-marker">
+</i>
+</div>
+</div>
+<address aria-hidden="true" class="fa fa-map-marker">
+Địa chỉ 2: 75 Hàm Nghi-Thanh Khê-Đà Nẵng</address>
+<div class="item-info">
+<div class="item-info__icon">
+<i aria-hidden="true" class="fa fa-mobile">
+</i>
+</div>
+</div>
+<p aria-hidden="true" class="fa fa-mobile">
+Hotline 2:<a href="tel:0906 86 7575">
+0906 86 7575</a>
+</p>
+<div class="item-info">
+<div class="item-info__icon">
+<i aria-hidden="true" class="fa fa-map-marker">
+</i>
+</div>
+</div>
+<address aria-hidden="true" class="fa fa-map-marker">
+Địa chỉ 3: 599 Lê Hồng Phong, F.10, Q.10-TP Hồ Chí Minh</address>
+<div class="item-info">
+<div class="item-info__icon">
+<i aria-hidden="true" class="fa fa-mobile">
+</i>
+</div>
+</div>
+<p aria-hidden="true" class="fa fa-mobile">
+Hotline 3:<a href="tel:093 668 5558">
+093 668 5558</a>
+</p>
+<div class="row bottom-footer">
+<div class="col-md-4 col-sm-6 col-xs-12">
+<div class="footer-widget footer-payment">
+<h3 class="footer-widget footer-payment">
+<span class="footer-widget footer-payment">
+Phương thức thanh toán</span>
+</h3>
+<ul class="list-menu clearfix">
+<li class="item">
+<img alt="Phương thức thanh toán" src="//bizweb.dktcdn.net/100/168/366/themes/713148/assets/payment_1.png?1593241674376"/>
+</li>
+<li class="item">
+<img alt="Phương thức thanh toán" src="//bizweb.dktcdn.net/100/168/366/themes/713148/assets/payment_2.png?1593241674376"/>
+</li>
+<li class="item">
+<img alt="Phương thức thanh toán" src="//bizweb.dktcdn.net/100/168/366/themes/713148/assets/payment_3.png?1593241674376"/>
+</li>
+<li class="item">
+<img alt="Phương thức thanh toán" src="//bizweb.dktcdn.net/100/168/366/themes/713148/assets/payment_4.png?1593241674376"/>
+</li>
+<li class="item">
+<img alt="Phương thức thanh toán" src="//bizweb.dktcdn.net/100/168/366/themes/713148/assets/payment_5.png?1593241674376"/>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-md-4 col-sm-6 col-xs-12">
+<div class="footer-widget footer-social">
+<h3 class="footer-widget footer-social">
+<span class="footer-widget footer-social">
+Kết nối với chúng tôi</span>
+</h3>
+<ul class="list-menu list-inline">
+<li class="twitter">
+<a href="#" target="_blank">
+<svg xmlns="http://www.w3.org/1999/xlink" height="15px" style="enable-background:new 0 0 612 612;" version="1.1" viewBox="0 0 612 612" width="15px" x="0px" xmlspace="preserve" y="0px">
+<g xmlns="http://www.w3.org/1999/xlink" height="15px" style="enable-background:new 0 0 612 612;" version="1.1" viewBox="0 0 612 612" width="15px" x="0px" xmlspace="preserve" y="0px">
+<path class="active-path" d="M612,116.258c-22.525,9.981-46.694,16.75-72.088,19.772c25.929-15.527,45.777-40.155,55.184-69.411    c-24.322,14.379-51.169,24.82-79.775,30.48c-22.907-24.437-55.49-39.658-91.63-39.658c-69.334,0-125.551,56.217-125.551,125.513    c0,9.828,1.109,19.427,3.251,28.606C197.065,206.32,104.556,156.337,42.641,80.386c-10.823,18.51-16.98,40.078-16.98,63.101    c0,43.559,22.181,81.993,55.835,104.479c-20.575-0.688-39.926-6.348-56.867-15.756v1.568c0,60.806,43.291,111.554,100.693,123.104    c-10.517,2.83-21.607,4.398-33.08,4.398c-8.107,0-15.947-0.803-23.634-2.333c15.985,49.907,62.336,86.199,117.253,87.194    c-42.947,33.654-97.099,53.655-155.916,53.655c-10.134,0-20.116-0.612-29.944-1.721c55.567,35.681,121.536,56.485,192.438,56.485    c230.948,0,357.188-191.291,357.188-357.188l-0.421-16.253C573.872,163.526,595.211,141.422,612,116.258z" data-old_color="#010002" data-original="#010002" fill="#FFFFFF"/>
+</g>
+</svg>
+</a>
+</li>
+<li class="facebook">
+<a href="https://www.facebook.com/Worldphone.vn/" target="_blank">
+<svg xmlns="http://www.w3.org/1999/xlink" height="15px" style="enable-background:new 0 0 430.113 430.114;" version="1.1" viewBox="0 0 430.113 430.114" width="15px" x="0px" xmlspace="preserve" y="0px">
+<path class="active-path" d="M158.081,83.3c0,10.839,0,59.218,0,59.218h-43.385v72.412h43.385v215.183h89.122V214.936h59.805   c0,0,5.601-34.721,8.316-72.685c-7.784,0-67.784,0-67.784,0s0-42.127,0-49.511c0-7.4,9.717-17.354,19.321-17.354   c9.586,0,29.818,0,48.557,0c0-9.859,0-43.924,0-75.385c-25.016,0-53.476,0-66.021,0C155.878-0.004,158.081,72.48,158.081,83.3z" data-old_color="#000000" data-original="#000000" fill="#FFFFFF" id="Facebook"/>
+</svg>
+</a>
+</li>
+<li class="youtube">
+<a href="https://www.youtube.com/worldphonevnofficial/sub_confirmation=1" target="_blank">
+<img class="img-responsive" src="//bizweb.dktcdn.net/100/168/366/themes/713148/assets/youtube.png?1593241674376"/>
+</a>
+</li>
+<li class="instagram">
+<a href="https://www.instagram.com/worldphone.official/" target="_blank">
+<svg xmlns="http://www.w3.org/2000/svg" height="15px" viewBox="0 0 512 512" width="15px">
+<path class="active-path" d="m75 512h362c41.355469 0 75-33.644531 75-75v-362c0-41.355469-33.644531-75-75-75h-362c-41.355469 0-75 33.644531-75 75v362c0 41.355469 33.644531 75 75 75zm-45-437c0-24.8125 20.1875-45 45-45h362c24.8125 0 45 20.1875 45 45v362c0 24.8125-20.1875 45-45 45h-362c-24.8125 0-45-20.1875-45-45zm0 0" data-old_color="#000000" data-original="#000000" fill="#FFFFFF"/>
+<path class="active-path" d="m256 391c74.4375 0 135-60.5625 135-135s-60.5625-135-135-135-135 60.5625-135 135 60.5625 135 135 135zm0-240c57.898438 0 105 47.101562 105 105s-47.101562 105-105 105-105-47.101562-105-105 47.101562-105 105-105zm0 0" data-old_color="#000000" data-original="#000000" fill="#FFFFFF"/>
+<path class="active-path" d="m406 151c24.8125 0 45-20.1875 45-45s-20.1875-45-45-45-45 20.1875-45 45 20.1875 45 45 45zm0-60c8.269531 0 15 6.730469 15 15s-6.730469 15-15 15-15-6.730469-15-15 6.730469-15 15-15zm0 0" data-old_color="#000000" data-original="#000000" fill="#FFFFFF"/>
+</svg>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="col-md-4 col-sm-12 col-xs-12">
+<div class="footer-widget footer-subcrible">
+<h3 class="footer-widget footer-subcrible">
+<span class="footer-widget footer-subcrible">
+Đăng ký nhận tin</span>
+</h3>
+<p class="footer-widget footer-subcrible">
+Nhận thông tin sản phẩm mới nhất, tin khuyến mãi và nhiều hơn nữa.</p>
+<form action="//facebook.us7.list-manage.com/subscribe/post?u=97ba6d3ba28239250923925a8&amp;id=4ef3a755a8" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" target="_blank">
+<div class="input-group">
+<input class="form-control" id="mail" name="EMAIL" placeholder="Email của bạn" type="email" value=""/>
+<span class="input-group-btn">
+<button class="btn btn-default" id="subscribe" name="subscribe" type="submit">
+Đăng ký</button>
+</span>
+</div>
+</form>
+</div>
+</div>
+<div class="copyright clearfix">
+<div class="container">
+<div class="inner clearfix">
+<div class="row">
+<div class="col-sm-12 text-center">
+<span class="col-sm-12 text-center">
+© Bản quyền thuộc về<b class="col-sm-12 text-center">
+WORLD PHONE</b>
+<span class="s480-f">
+|</span>
+</span>
+Cung cấp bởi<a href="https://themes.sapo.vn" rel="nofollow" target="_blank" title="Sapo">
+Sapo</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="back-to-top">
+<i class="fa  fa-arrow-circle-up">
+</i>
+</div>
+</footer>
+<div class="ajax-load">
+<span class="loading-icon">
+<svg xmlns="http://www.w3.org/1999/xlink" height="30px" style="enable-background:new 0 0 50 50;" version="1.1" viewBox="0 0 24 30" width="24px" x="0px" xmlspace="preserve" y="0px">
+<rect fill="#333" height="10" opacity="0.2" width="4" x="0" y="10">
+<animate attributeName="opacity" attributeType="XML" begin="0s" dur="0.6s" repeatCount="indefinite" values="0.2; 1; .2"/>
+<animate attributeName="height" attributeType="XML" begin="0s" dur="0.6s" repeatCount="indefinite" values="10; 20; 10"/>
+<animate attributeName="y" attributeType="XML" begin="0s" dur="0.6s" repeatCount="indefinite" values="10; 5; 10"/>
+</rect>
+<rect fill="#333" height="10" opacity="0.2" width="4" x="8" y="10">
+<animate attributeName="opacity" attributeType="XML" begin="0.15s" dur="0.6s" repeatCount="indefinite" values="0.2; 1; .2"/>
+<animate attributeName="height" attributeType="XML" begin="0.15s" dur="0.6s" repeatCount="indefinite" values="10; 20; 10"/>
+<animate attributeName="y" attributeType="XML" begin="0.15s" dur="0.6s" repeatCount="indefinite" values="10; 5; 10"/>
+</rect>
+<rect fill="#333" height="10" opacity="0.2" width="4" x="16" y="10">
+<animate attributeName="opacity" attributeType="XML" begin="0.3s" dur="0.6s" repeatCount="indefinite" values="0.2; 1; .2"/>
+<animate attributeName="height" attributeType="XML" begin="0.3s" dur="0.6s" repeatCount="indefinite" values="10; 20; 10"/>
+<animate attributeName="y" attributeType="XML" begin="0.3s" dur="0.6s" repeatCount="indefinite" values="10; 5; 10"/>
+</rect>
+</svg>
+</span>
+</div>
+<div class="loading awe-popup">
+<div class="overlay">
+</div>
+</div>
+<div class="loader" title="2">
+<svg xmlns="http://www.w3.org/1999/xlink" height="30px" style="enable-background:new 0 0 50 50;" version="1.1" viewBox="0 0 24 30" width="24px" x="0px" xmlspace="preserve" y="0px">
+<rect fill="#333" height="10" opacity="0.2" width="4" x="0" y="10">
+<animate attributeName="opacity" attributeType="XML" begin="0s" dur="0.6s" repeatCount="indefinite" values="0.2; 1; .2"/>
+<animate attributeName="height" attributeType="XML" begin="0s" dur="0.6s" repeatCount="indefinite" values="10; 20; 10"/>
+<animate attributeName="y" attributeType="XML" begin="0s" dur="0.6s" repeatCount="indefinite" values="10; 5; 10"/>
+</rect>
+<rect fill="#333" height="10" opacity="0.2" width="4" x="8" y="10">
+<animate attributeName="opacity" attributeType="XML" begin="0.15s" dur="0.6s" repeatCount="indefinite" values="0.2; 1; .2"/>
+<animate attributeName="height" attributeType="XML" begin="0.15s" dur="0.6s" repeatCount="indefinite" values="10; 20; 10"/>
+<animate attributeName="y" attributeType="XML" begin="0.15s" dur="0.6s" repeatCount="indefinite" values="10; 5; 10"/>
+</rect>
+<rect fill="#333" height="10" opacity="0.2" width="4" x="16" y="10">
+<animate attributeName="opacity" attributeType="XML" begin="0.3s" dur="0.6s" repeatCount="indefinite" values="0.2; 1; .2"/>
+<animate attributeName="height" attributeType="XML" begin="0.3s" dur="0.6s" repeatCount="indefinite" values="10; 20; 10"/>
+<animate attributeName="y" attributeType="XML" begin="0.3s" dur="0.6s" repeatCount="indefinite" values="10; 5; 10"/>
+</rect>
+</svg>
+</div>
+<div class="addcart-popup product-popup awe-popup">
+<div class="overlay no-background">
+</div>
+</div>
+<div class="content">
+<div class="row row-noGutter">
+<div class="col-xl-6 col-xs-12">
+<div class="btn btn-full btn-primary a-left popup-title">
+<i class="fa fa-check">
+</i>
+Thêm vào giỏ hàng thành công</div>
+</div>
+</div>
+</div>
+<a class="close-window close-popup" href="javascript:void(0)">
+<i class="fa fa-close">
+</i>
+</a>
+<div class="info clearfix">
+<div class="product-image margin-top-5">
+<img alt="popup" src="//bizweb.dktcdn.net/100/168/366/themes/713148/assets/logo.png?1593241674376" style="max-width:150px; height:auto"/>
+</div>
+</div>
+<div class="product-info">
+<p class="product-name">
+</p>
+<p class="quantity color-main">
+<span class="quantity color-main">
+Số lượng:</span>
+</p>
+<p class="total-money color-main">
+<span class="total-money color-main">
+Tổng tiền:</span>
+</p>
+</div>
+<div class="actions">
+<button class="btn  btn-primary  margin-top-5 btn-continue">
+Tiếp tục mua hàng</button>
+<button class="btn btn-gray margin-top-5" onclick="window.location='/cart'">
+Kiểm tra giỏ hàng</button>
+</div>
+<div class="error-popup awe-popup">
+<div class="overlay no-background">
+</div>
+</div>
+<div class="popup-inner content">
+<div class="error-message">
+</div>
+</div>
+<script class="error-message">
+Bizweb.updateCartFromForm = function(cart, cart_summary_id, cart_count_id) {
+		if ((typeof cart_summary_id) === 'string') {
+			var cart_summary = jQuery(cart_summary_id);
+			if (cart_summary.length) {
+				cart_summary.empty();      
+				jQuery.each(cart, function(key, value) {
+					if (key === 'items') {
+						var table = jQuery(cart_summary_id);           
+						if (value.length) {   
+							jQuery('<ul class="list-item-cart">
+</ul>
+').appendTo(table);
+							jQuery.each(value, function(i, item) {	
+								var src = item.image;
+								if(src == null){
+									src = "http://bizweb.dktcdn.net/thumb/large/assets/themes_support/noimage.gif";
+								}
+								var buttonQty = "";
+								if(item.quantity == '1'){
+									buttonQty = 'disabled';
+								}else{
+									buttonQty = '';
+								}
+								jQuery('<li class="item productid-' + item.variant_id +'">
+<a class="product-image" href="' + item.url + '" title="' + item.name + '">
+'
+									   + '<img alt="'+  item.name  + '" src="' + src +  '" width="'+ '80' +'"/>
+</a>
+'
+									   + '<div class="detail-item">
+<div class="product-details">
+<a class="remove-item-cart fa fa-remove" data-id="'+ item.variant_id +'" href="javascript:;" title="Xóa">
+&amp;nbsp;</a>
+'
+									   + '<p class="product-name">
+<a href="' + item.url + '" title="' + item.name + '">
+' + item.name + '</a>
+</p>
+</div>
+</div>
+'
+									   + '<div class="product-details-bottom">
+<span class="price pricechange">
+' + Bizweb.formatMoney(item.price, "{{amount_no_decimals_with_comma_separator}}₫") + '</span>
+'
+																														 + '<div class="quantity-select">
+<input class="variantID" name="variantId" type="hidden" value="'+ item.variant_id +'"/>
+<button buttonQty="true" class="reduced items-count btn-minus" onClick="var result = document.getElementById(\'qty'+ item.variant_id +'\'); var qty'+ item.variant_id +' = result.value; if( !isNaN( qty'+ item.variant_id +' ) &amp;amp;&amp;amp; qty'+ item.variant_id +' &amp;gt; 1 ) result.value--;return false;" type="button">
+–</button>
+<input class="input-text number-sidebar qty'+ item.variant_id +'" disabled="true" id="updates_'+ item.variant_id +'" maxlength="3" min="1" name="Lines" onchange="if(this.value == 0)this.value=1;" size="4" type="text" value="'+ item.quantity +'"/>
+<button class="increase items-count btn-plus" onClick="var result = document.getElementById(\'qty'+ item.variant_id +'\'); var qty'+ item.variant_id +' = result.value; if( !isNaN( qty'+ item.variant_id +' )) result.value++;return false;" type="button">
++</button>
+</div>
+</div>
+</li>
+').appendTo(table.children('.list-item-cart'));
+									   }); 
+								jQuery('<div class="increase items-count btn-plus" onClick="var result = document.getElementById(\'qty'+ item.variant_id +'\'); var qty'+ item.variant_id +' = result.value; if( !isNaN( qty'+ item.variant_id +' )) result.value++;return false;" type="button">
+<div class="top-subtotal">
+Tổng cộng:<span class="price">
+' + Bizweb.formatMoney(cart.total_price, "{{amount_no_decimals_with_comma_separator}}₫") + '</span>
+</div>
+</div>
+').appendTo(table);
+																															 jQuery('<div class="price">
+<div class="actions clearfix">
+<a class="btn btn-gray btn-checkout" href="/checkout" title="Thanh toán">
+<span class="btn btn-gray btn-checkout" href="/checkout" title="Thanh toán">
+Thanh toán</span>
+</a>
+<a class="view-cart btn btn-white margin-left-5" href="/cart" title="Giỏ hàng">
+<span class="view-cart btn btn-white margin-left-5" href="/cart" title="Giỏ hàng">
+Giỏ hàng</span>
+</a>
+</div>
+</div>
+').appendTo(table);
+									   }
+									   else {
+									   jQuery('<div class="no-item">
+<p class="no-item">
+Không có sản phẩm nào trong giỏ hàng.</p>
+</div>
+').appendTo(table);
+							}
+										}
+										});
+						}
+					}
+					updateCartDesc(cart);
+					var numInput = document.querySelector('#cart-sidebar input.input-text');
+					if (numInput != null){
+						numInput.addEventListener('input', function(){
+							var num = this.value.match(/^\d+$/);
+							if (num == 0) {
+								this.value = 1;
+							}
+							if (num === null) {
+								this.value = "";
+							}
+						}, false)
+					}
+				}
+							Bizweb.updateCartPageForm = function(cart, cart_summary_id, cart_count_id) {
+					if ((typeof cart_summary_id) === 'string') {
+						var cart_summary = jQuery(cart_summary_id);
+						if (cart_summary.length) {
+							cart_summary.empty();      
+							jQuery.each(cart, function(key, value) {
+								if (key === 'items') {
+									var table = jQuery(cart_summary_id);           
+									if (value.length) {  
+										var pageCart = '<div class="cart page_cart cart_des_page hidden-xs-down">
+'
+										+ '<div class="col-xs-9 cart-col-1">
+'
+										+ '<div class="cart-tbody">
+'
+										+ '</div>
+</div>
+</div>
+'
+										+ ''
+										+ '';
+										var pageCartCheckout = '<div class="col-xs-3 cart-col-2 cart-collaterals cart_submit">
+'
+										+ '<div id="right-affix">
+'
+										+ '<div class="each-row">
+'
+										+ '<div class="box-style fee">
+'
+										+ '<p class="list-info-price">
+'
+										+ '<span class="list-info-price">
+Tạm tính:</span>
+'
+										+ '<strong class="totals_price price _text-right text_color_right1">
+65756756756</strong>
+</p>
+</div>
+</div>
+</div>
+</div>
+'
+										+ '<div class="box-style fee">
+'
+										+ '<div class="total2 clearfix">
+'
+										+ '<span class="text-label">
+Thành tiền:</span>
+'
+										+ '<div class="amount">
+'
+										+ '<p class="amount">
+<strong class="totals_price">
+' + Bizweb.formatMoney(cart.total_price, "{{amount_no_decimals_with_comma_separator}}₫") + '</strong>
+</p>
+'
+										+ '</div>
+</div>
+</div>
+'
+										+ '<button class="button btn-proceed-checkout btn btn-large btn-block btn-danger btn-checkout" onclick="window.location.href=\'/checkout\'" title="Thanh toán ngay" type="button">
+Thanh toán ngay</button>
+'
+										+ '<button class="button btn-proceed-checkout btn btn-large btn-block btn-danger btn-checkouts" onclick="window.location.href=\'/collections/all\'" title="Tiếp tục mua hàng" type="button">
+Tiếp tục mua hàng</button>
+'
+										+ '';
+										jQuery(pageCart).appendTo(table);
+										jQuery.each(value, function(i, item) {
+											var buttonQty = "";
+											if(item.quantity == '1'){
+												buttonQty = 'disabled';
+											}else{
+												buttonQty = '';
+											}
+											var link_img1 = Bizweb.resizeImage(item.image, 'medium');
+											if(link_img1=="null" || link_img1 =='' || link_img1 ==null){
+												link_img1 = 'https://bizweb.dktcdn.net/thumb/large/assets/themes_support/noimage.gif';
+											}
+											var date = "";
+											if(item.properties['khuyến mãi'] == null){
+												date="Đang cập nhật";
+											}else{
+												date = item.properties['khuyến mãi'];
+											}
+											if(item.price == 0){
+												var price = "Tặng kèm";
+												var hidden = "hidden";
+											}else{
+												var hidden = "";
+												var price = Bizweb.formatMoney(item.price, "{{amount_no_decimals_with_comma_separator}}₫");
+											}
+											var item_price = item.price * item.quantity;
+											var pageCartItem = '<div class="row shopping-cart-item productid-' + item.variant_id +'">
+'
+											+ '<div class="col-xs-3 img-thumnail-custom">
+'
+											+ '<p class="image">
+'
+											+ '<a href="' + item.url + '" target="_blank" title="' + item.name + '">
+'
+											+ '<img alt="' + item.name + '" class="img-responsive" src="' + link_img1 +  '"/>
+'
+											+ '</a>
+'
+											+ '</p>
+'
+											+ '</div>
+</div>
+'
+											+ '<div class="col-right col-xs-9">
+'
+											+ '<div class="box-info-product">
+'
+											+ '<p class="name">
+'
+											+ '<a href="' + item.url + '" target="_blank" title="' + item.name + '">
+' + item.name + '</a>
+'
+											+ '</p>
+'
+											+ '<p class="date-tour">
+'
+											+ 'Khuyến mãi: ' + date + ''
+											+ '</p>
+'
+											+ '<p class="seller-by hidden">
+' + item.variant_title + '</p>
+'
+											+ '<p class="action">
+'
+											+ '<a class="btn btn-link btn-item-delete remove-item-cart" data-id="'+ item.variant_id +'" href="javascript:;" title="Xóa">
+Xóa</a>
+'
+											+ '</p>
+'
+											+ '</div>
+</div>
+'
+											+ '<div class="box-price">
+'
+											+ '<p class="price pricechange">
+' + price + '</p>
+'
+																					   + '</div>
+'
+																					   + '<div class="quantity-block">
+'
+																					   + '<div class="input-group bootstrap-touchspin">
+'
+																					   + '<div class="input-group-btn">
+'
+																					   + '<input class="variantID" name="variantId" type="hidden" value="'+ item.variant_id +'"/>
+'
+																					   + '<button class="increase_pop items-count btn-plus btn btn-default bootstrap-touchspin-up" onClick="var result = document.getElementById(\'qtyItem'+ item.variant_id +'\'); var qtyItem'+ item.variant_id +' = result.value; if( !isNaN( qtyItem'+ item.variant_id +' )) result.value++;return false;" type="button">
++</button>
+'
+																					   + '<input class="form-control quantity-r2 quantity js-quantity-product input-text number-sidebar input_pop input_pop qtyItem'+ item.variant_id +'" disabled="true" id="updates_'+ item.variant_id +'" maxlength="12" min="1" name="Lines" onchange="if(this.value == 0)this.value=1;" size="4" type="text" value="'+ item.quantity +'"/>
+'
+																					   + '<button buttonQty="true" class="reduced_pop items-count btn-minus btn btn-default bootstrap-touchspin-down" onClick="var result = document.getElementById(\'qtyItem'+ item.variant_id +'\'); var qtyItem'+ item.variant_id +' = result.value; if( !isNaN( qtyItem'+ item.variant_id +' ) &amp;amp;&amp;amp; qtyItem'+ item.variant_id +' &amp;gt; 1 ) result.value--;return false;" type="button">
+–</button>
+'
+																					   + '</div>
+</div>
+</div>
+'
+																					   + ''
+																					   + ''
+																					   + ''
+																					   + '';
+																					   jQuery(pageCartItem).appendTo(table.find('.cart-tbody'));
+											if(item.variant_title == 'Default Title'){
+												$('.seller-by').hide();
+											}
+										}); 
+										jQuery(pageCartCheckout).appendTo(table.children('.cart'));
+									}else {
+										jQuery('<p class="hidden-xs-down">
+Không có sản phẩm nào trong giỏ hàng. Quay lại<a href="/" style="color:;">
+cửa hàng</a>
+để tiếp tục mua sắm.</p>
+').appendTo(table);
+											   jQuery('.cart_desktop_page').css('min-height', 'auto');
+									}
+								}
+							});
+						}
+					}
+					updateCartDesc(cart);
+					jQuery('#wait').hide();
+				}
+				Bizweb.updateCartPopupForm = function(cart, cart_summary_id, cart_count_id) {
+					if ((typeof cart_summary_id) === 'string') {
+						var cart_summary = jQuery(cart_summary_id);
+						if (cart_summary.length) {
+							cart_summary.empty();      
+							jQuery.each(cart, function(key, value) {
+								if (key === 'items') {
+									var table = jQuery(cart_summary_id);           
+									if (value.length) { 
+										jQuery.each(value, function(i, item) {
+											var link_img1 = Bizweb.resizeImage(item.image, 'small');
+											if(link_img1=="null" || link_img1 =='' || link_img1 ==null){
+												link_img1 = 'https://bizweb.dktcdn.net/thumb/large/assets/themes_support/noimage.gif';
+											}
+											var buttonQty = "";
+											if(item.quantity == '1'){
+												buttonQty = 'disabled';
+											}else{
+												buttonQty = '';
+											}
+											var title_va = item.variant_title;
+											if( title_va == 'Default Title'){
+												title_va = "";
+											}else {
+												title_va = item.variant_title;
+											}
+											var date = "";
+											if(item.properties['khuyến mãi'] == null){
+												date="Đang cập nhật";
+											}else{
+												date = item.properties['khuyến mãi'];
+											}
+											var pageCartItem = '<div class="item-popup productid-' + item.variant_id +'">
+<div class="text-left" style="width: 55%;">
+<div class="item-image">
+'
+											+ '<a class="product-image" href="' + item.url + '" title="' + item.name + '">
+<img alt="'+  item.name  + '" src="' + link_img1 +  '" width="'+ '80' +'"/>
+</a>
+'
+											+ '</div>
+</div>
+</div>
+<div class="item-info">
+<p class="item-name">
+<a href="' + item.url + '" title="' + item.name + '">
+' + item.title + '</a>
+</p>
+'
+											+ '<p class="variant-title-popup">
+' + title_va + ''
+											+ '<p class="item-remove">
+<a class="remove-item-cart" data-id="'+ item.variant_id +'" href="javascript:;" title="Xóa">
+<i class="fa fa-close">
+</i>
+Bỏ sản phẩm</a>
+</p>
+</p>
+<p class="addpass" style="color:#fff;">
+'+ item.variant_id +'</p>
+</div>
+'
+											+ '<div class="text-right" style="width: 15%;">
+<div class="item-price">
+<span class="price pricechange">
+' + Bizweb.formatMoney(item.price, "{{amount_no_decimals_with_comma_separator}}₫") + '</span>
+'
+								+ '</div>
+</div>
+<div class="text-center" style="width: 15%;">
+<input class="variantID" name="variantId" type="hidden" value="'+ item.variant_id +'"/>
+'
+								+ '<button buttonQty="true" class="reduced items-count btn-minus" onClick="var result = document.getElementById(\'qtyItem'+ item.variant_id +'\'); var qtyItem'+ item.variant_id +' = result.value; if( !isNaN( qtyItem'+ item.variant_id +' ) &amp;amp;&amp;amp; qtyItem'+ item.variant_id +' &amp;gt; 1 ) result.value--;return false;" type="button">
+–</button>
+'
+								+ '<input class="input-text number-sidebar qtyItem'+ item.variant_id +'" disabled="true" id="updates_'+ item.variant_id +'" maxlength="12" min="0" name="Lines" size="4" type="text" value="'+ item.quantity +'"/>
+'
+								+ '<button class="increase items-count btn-plus" onClick="var result = document.getElementById(\'qtyItem'+ item.variant_id +'\'); var qtyItem'+ item.variant_id +' = result.value; if( !isNaN( qtyItem'+ item.variant_id +' )) result.value++;return false;" type="button">
++</button>
+</div>
+'
+								+ '<div class="text-right" style="width: 15%;">
+<span class="cart-price">
+<span class="price">
+'+ Bizweb.formatMoney(item.price * item.quantity, "{{amount_no_decimals_with_comma_separator}}₫") +'</span>
+</span>
+</div>
+'
+								+ '<div class="date-tour" style="width:100%;">
+'
+								+ 'Khuyến mãi: ' + date + ''
+								+ '</div>
+';
+								jQuery(pageCartItem).prependTo(table);
+											$('.link_product').text();
+										}); 
+									}
+								}
+							});
+						}
+					}
+					jQuery('.total-price').html(Bizweb.formatMoney(cart.total_price, "{{amount_no_decimals_with_comma_separator}}₫"));
+																   updateCartDesc(cart);
+												}
+												Bizweb.updateCartPageFormMobile = function(cart, cart_summary_id, cart_count_id) {
+						if ((typeof cart_summary_id) === 'string') {
+							var cart_summary = jQuery(cart_summary_id);
+							if (cart_summary.length) {
+								cart_summary.empty();      
+								jQuery.each(cart, function(key, value) {
+									if (key === 'items') {
+										var table = jQuery(cart_summary_id);           
+										if (value.length) {   
+											jQuery('<div class="cart_page_mobile content-product-list">
+</div>
+').appendTo(table);
+											jQuery.each(value, function(i, item) {
+												if( item.image != null){
+													var src = Bizweb.resizeImage(item.image, 'small');
+												}else{
+													var src = "https://bizweb.dktcdn.net/thumb/large/assets/themes_support/noimage.gif";
+												}
+												var date = "";
+												if(item.properties['khuyến mãi'] == null){
+													date="Đang cập nhật";
+												}else{
+													date = item.properties['khuyến mãi'];
+												}
+												jQuery('<div class="item-product item productid-' + item.variant_id +' ">
+<div class="item-product-cart-mobile">
+<a class="product-images1" href="' + item.url + '" title="' + item.name + '">
+<img alt="' + item.name + '" height="150" src="' + src +  '" width="80"/>
+</a>
+</div>
+</div>
+'
+													   + '<div class="title-product-cart-mobile">
+<h3 class="title-product-cart-mobile">
+<a href="' + item.url + '" title="' + item.name + '">
+' + item.name + '</a>
+</h3>
+<p href="' + item.url + '" title="' + item.name + '">
+Giá:<span class="pricechange">
+' + Bizweb.formatMoney(item.price, "{{amount_no_decimals_with_comma_separator}}₫") + '</span>
+</p>
+</div>
+'
+									   + '<div class="select-item-qty-mobile">
+<div class="txt_center">
+'
+									   + '<input class="variantID" name="variantId" type="hidden" value="'+ item.variant_id +'"/>
+<button class="reduced items-count btn-minus" onClick="var result = document.getElementById(\'qtyMobile'+ item.variant_id +'\'); var qtyMobile'+ item.variant_id +' = result.value; if( !isNaN( qtyMobile'+ item.variant_id +' ) &amp;amp;&amp;amp; qtyMobile'+ item.variant_id +' &amp;gt; 1 ) result.value--;return false;" type="button">
+–</button>
+<input class="input-text number-sidebar qtyMobile'+ item.variant_id +'" disabled="true" id="updates_'+ item.variant_id +'" maxlength="12" min="0" name="Lines" size="4" type="text" value="'+ item.quantity +'"/>
+<button class="increase items-count btn-plus" onClick="var result = document.getElementById(\'qtyMobile'+ item.variant_id +'\'); var qtyMobile'+ item.variant_id +' = result.value; if( !isNaN( qtyMobile'+ item.variant_id +' )) result.value++;return false;" type="button">
++</button>
+</div>
+</div>
+'
+									   + '<a class="button remove-item remove-item-cart" data-id="'+ item.variant_id +'" href="javascript:;" title="Xóa">
+Xoá</a>
+'
+									   + '<div class="clearfix">
+</div>
+<div class="date-tour">
+'
+								+ 'Khuyến mãi: ' + date + ''
+								+ '</div>
+').appendTo(table.children('.content-product-list'));
+													   });
+												jQuery('<div class="header-cart-price" style="">
+<div class="title-cart clearfix">
+<h3 class="text-xs-left">
+Tổng tiền</h3>
+<a amount_no_decimals_with_comma_separator="true" class="text-xs-right totals_price_mobile" title="' + Bizweb.formatMoney(cart.total_price, ">
+' + Bizweb.formatMoney(cart.total_price, "{{amount_no_decimals_with_comma_separator}}₫") + '</a>
+</div>
+</div>
+'
+								   + '<div class="checkout">
+<button class="btn-proceed-checkout-mobile" onclick="window.location.href=\'/checkout\'" title="Thanh toán ngay" type="button">
+'
+								   + '<span class="btn-proceed-checkout-mobile" onclick="window.location.href=\'/checkout\'" title="Thanh toán ngay" type="button">
+Thanh toán ngay</span>
+</button>
+</div>
+'
+								   + '<button class="btn btn-proceed-continues-mobile" onclick="window.location.href=\'/collections/all\'" title="Tiếp tục mua hàng" type="button">
+Tiếp tục mua hàng</button>
+'
+								   +'').appendTo(table);
+													   }
+													   }
+													   });
+											}
+														}
+														updateCartDesc(cart);
+										}
+										function updateCartDesc(data){
+											var $cartPrice = Bizweb.formatMoney(data.total_price, "{{amount_no_decimals_with_comma_separator}}₫"),
+												$cartMobile = $('#header .cart-mobile .quantity-product'),
+												$cartDesktop = $('.count_item_pr'),
+												$cartDesktopList = $('.cart-counter-list'),
+												$cartPopup = $('.cart-popup-count');
+											switch(data.item_count){
+												case 0:
+													$cartMobile.text('0');
+													$cartDesktop.text('0');
+													$cartDesktopList.text('0');
+													$cartPopup.text('0');
+													break;
+												case 1:
+													$cartMobile.text('1');
+													$cartDesktop.text('1');
+													$cartDesktopList.text('1');
+													$cartPopup.text('1');
+													break;
+												default:
+													$cartMobile.text(data.item_count);
+													$cartDesktop.text(data.item_count);
+													$cartDesktopList.text(data.item_count);
+													$cartPopup.text(data.item_count);
+													break;
+											}
+											$('.top-cart-content .top-subtotal .price, aside.sidebar .block-cart .subtotal .price, .popup-total .total-price').html($cartPrice);
+											$('.popup-total .total-price').html($cartPrice);
+											$('.cart-collaterals .totals_price').html($cartPrice);
+											$('.header-cart-price .totals_price_mobile').html($cartPrice);
+											$('.cartCount, .cart-products-count').html(data.item_count);
+										}
+										Bizweb.onCartUpdate = function(cart) {
+											Bizweb.updateCartFromForm(cart, '.mini-products-list');
+											Bizweb.updateCartPopupForm(cart, '#popup-cart-desktop .tbody-popup');
+											
+										};
+										Bizweb.onCartUpdateClick = function(cart, variantId) {
+											jQuery.each(cart, function(key, value) {
+												if (key === 'items') {    
+													jQuery.each(value, function(i, item) {	
+														if(item.variant_id == variantId){
+															$('.productid-'+variantId).find('.pricechange').html(Bizweb.formatMoney(item.price, "{{amount_no_decimals_with_comma_separator}}₫"));
+															$('.productid-'+variantId).find('.cart-price span.price').html(Bizweb.formatMoney(item.price * item.quantity, "{{amount_no_decimals_with_comma_separator}}₫"));
+															$('.productid-'+variantId).find('.items-count').prop("disabled", false);
+															$('.productid-'+variantId +' .number-sidebar').val(item.quantity);
+															if(item.quantity == '1'){
+																$('.productid-'+variantId).find('.items-count.btn-minus').prop("disabled", true);
+															}
+														}
+													}); 
+												}
+											});
+											updateCartDesc(cart);
+										}
+										Bizweb.onCartRemoveClick = function(cart, variantId) {
+											jQuery.each(cart, function(key, value) {
+												if (key === 'items') {    
+													jQuery.each(value, function(i, item) {	
+														if(item.variant_id == variantId){
+															$('.productid-'+variantId).remove();
+														}
+													}); 
+												}
+											});
+											updateCartDesc(cart);
+										}
+										$(window).ready(function(){
+											$.ajax({
+												type: 'GET',
+												url: '/cart.js',
+												async: false,
+												cache: false,
+												dataType: 'json',
+												success: function (cart){
+													Bizweb.updateCartFromForm(cart, '.mini-products-list');
+													Bizweb.updateCartPopupForm(cart, '#popup-cart-desktop .tbody-popup'); 
+													
+												}
+											});
+										});</script>
+<div class="modal fade" id="popup-cart" role="dialog">
+<div class="clearfix" id="popup-cart-desktop">
+<div class="title-popup-cart">
+<i aria-hidden="true" class="ion ion-md-notifications-outline">
+</i>
+Bạn đã thêm<span class="cart-popup-name">
+</span>
+vào giỏ hàng</div>
+</div>
+</div>
+<div class="title-quantity-popup">
+<a href="/cart" title="Giỏ hàng của bạn">
+Giỏ hàng của bạn có<span class="cart-popup-count">
+</span>
+sản phẩm</a>
+</div>
+<div class="content-popup-cart clearfix">
+<div class="thead-popup">
+<div class="text-left" style="width: 55%;">
+Sản phẩm</div>
+</div>
+</div>
+<div class="text-center" style="width: 15%;">
+Đơn giá</div>
+<div class="text-center" style="width: 15%;">
+Số lượng</div>
+<div class="text-center" style="width: 15%;">
+Thành tiền</div>
+<div class="tbody-popup">
+</div>
+<div class="tfoot-popup">
+<div class="tfoot-popup-1 clearfix">
+<div class="pull-left popupcon">
+<a class="button btn-continue" onclick="$('#popup-cart').modal('hide');" title="Tiếp tục mua hàng">
+<span class="button btn-continue" onclick="$('#popup-cart').modal('hide');" title="Tiếp tục mua hàng">
+<span class="button btn-continue" onclick="$('#popup-cart').modal('hide');" title="Tiếp tục mua hàng">
+<i aria-hidden="true" class="fa fa-caret-left">
+</i>
+Tiếp tục mua hàng</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+<div class="pull-right popup-total">
+<p class="pull-right popup-total">
+Thành tiền:<span class="total-price">
+</span>
+</p>
+</div>
+<div class="tfoot-popup-2 clearfix">
+<a class="button btn-proceed-checkout" href="/checkout" title="Thanh toán đơn hàng">
+<span class="button btn-proceed-checkout" href="/checkout" title="Thanh toán đơn hàng">
+Thanh toán đơn hàng</span>
+</a>
+</div>
+<a class="quickview-close close-window" href="javascript:;" onclick="$('#popup-cart').modal('hide');" title="Đóng">
+<i class="fa fa-times">
+</i>
+</a>
+<div class="modal fade" id="myModal" role="dialog">
+</div>
+<div class="backdrop__body-backdrop___1rvky">
+</div>
+<div class="mobile-main-menu">
+<div class="drawer-header">
+<a href="account/login">
+<div class="drawer-header--auth">
+<div class="_object">
+<img alt="WORLDPHONE.VN" src="//bizweb.dktcdn.net/100/168/366/themes/713148/assets/user.svg?1593241674376"/>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="_body">
+ĐĂNG NHẬP<br class="_body"/>
+Nhận nhiều ưu đãi hơn</div>
+<ul class="ul-first-menu">
+<li class="ul-first-menu">
+<a href="/account/login" title="Đăng nhập">
+Đăng nhập</a>
+</li>
+<li href="/account/login" title="Đăng nhập">
+<a href="/account/register" title="Đăng ký">
+Đăng ký</a>
+</li>
+</ul>
+<div class="la-scroll-fix-infor-user">
+<div class="la-nav-menu-items">
+<div class="la-title-nav-items">
+<strong class="la-title-nav-items">
+Danh mục</strong>
+</div>
+</div>
+</div>
+<ul class="la-nav-list-items">
+<li class="ng-scope">
+<a href="/" title="TRANG CHỦ">
+TRANG CHỦ</a>
+</li>
+<li class="ng-scope ng-has-child1">
+<a href="/dien-thoai-blackberry" title="ĐIỆN THOẠI BLACKBERRY">
+ĐIỆN THOẠI BLACKBERRY<i aria-hidden="true" class="fa fa-plus fa1">
+</i>
+</a>
+<ul class="ul-has-child1">
+<li class="ng-scope">
+<a href="/blackberry-os" title="BLACKBERRY OS">
+BLACKBERRY OS</a>
+</li>
+</ul>
+</li>
+<li class="ng-scope">
+<a href="/blackberry-10" title="BLACKBERRY 10">
+BLACKBERRY 10</a>
+</li>
+<li class="ng-scope">
+<a href="/blackberry-android" title="BLACKBERRY ANDROID">
+BLACKBERRY ANDROID</a>
+</li>
+<li class="ng-scope">
+<a href="/blackberry-cao-cap" title="BLACKBERRY CAO CẤP">
+BLACKBERRY CAO CẤP</a>
+</li>
+</ul>
+<li class="ng-scope ng-has-child1">
+<a href="/dien-thoai-android" title="ĐIỆN THOẠI ANDROID">
+ĐIỆN THOẠI ANDROID<i aria-hidden="true" class="fa fa-plus fa1">
+</i>
+</a>
+<ul class="ul-has-child1">
+<li class="ng-scope">
+<a href="/htc" title="ĐIỆN THOẠI HTC">
+ĐIỆN THOẠI HTC</a>
+</li>
+</ul>
+</li>
+<li class="ng-scope">
+<a href="/lg" title="ĐIỆN THOẠI LG">
+ĐIỆN THOẠI LG</a>
+</li>
+<li class="ng-scope">
+<a href="/samsung" title="ĐIỆN THOẠI SAMSUNG">
+ĐIỆN THOẠI SAMSUNG</a>
+</li>
+<li class="ng-scope">
+<a href="/google" title="ĐIỆN THOẠI GOOGLE">
+ĐIỆN THOẠI GOOGLE</a>
+</li>
+<li class="ng-scope">
+<a href="/motorola" title="ĐIỆN THOẠI MOTOROLA">
+ĐIỆN THOẠI MOTOROLA</a>
+</li>
+<li class="ng-scope">
+<a href="/dien-thoai-sony" title="ĐIỆN THOẠI SONY">
+ĐIỆN THOẠI SONY</a>
+</li>
+<li class="ng-scope">
+<a href="/dien-thoai-2-sim" title="ĐIỆN THOẠI 2 SIM">
+ĐIỆN THOẠI 2 SIM</a>
+</li>
+<li class="ng-scope ng-has-child1">
+<a href="/iphone" title="APPLE IPHONE">
+APPLE IPHONE<i aria-hidden="true" class="fa fa-plus fa1">
+</i>
+</a>
+<ul class="ul-has-child1">
+<li class="ng-scope">
+<a href="/iphone-se-2020" title="IPHONE SE 2020">
+IPHONE SE 2020</a>
+</li>
+</ul>
+</li>
+<li class="ng-scope">
+<a href="/iphone-xs-xs-max" title="IPHONE XS | XS MAX">
+IPHONE XS | XS MAX</a>
+</li>
+<li class="ng-scope">
+<a href="/iphone-x-iphone-xr" title="IPHONE X | XR">
+IPHONE X | XR</a>
+</li>
+<li class="ng-scope">
+<a href="/iphone-8-8-plus" title="IPHONE 8 | 8 PLUS">
+IPHONE 8 | 8 PLUS</a>
+</li>
+<li class="ng-scope">
+<a href="/iphone-7-7-plus" title="IPHONE 7 | 7 PLUS">
+IPHONE 7 | 7 PLUS</a>
+</li>
+<li class="ng-scope">
+<a href="/iphone-6-6s-6s-plus" title="IPHONE 6 | 6S | 6S PLUS">
+IPHONE 6 | 6S | 6S PLUS</a>
+</li>
+<li class="ng-scope">
+<a href="/iphone-5-iphone-5s" title="IPHONE 5 | 5S">
+IPHONE 5 | 5S</a>
+</li>
+<li class="ng-scope">
+<a href="/khuyen-mai" title="KHUYẾN MÃI">
+KHUYẾN MÃI</a>
+</li>
+<li class="ng-scope ng-has-child1">
+<a href="/linh-phu-kien-chinh-hang" title="LINH PHỤ KIỆN">
+LINH PHỤ KIỆN<i aria-hidden="true" class="fa fa-plus fa1">
+</i>
+</a>
+<ul class="ul-has-child1">
+<li class="ng-scope">
+<a href="/bao-gia" title="BÁO GIÁ LINH KIỆN">
+BÁO GIÁ LINH KIỆN</a>
+</li>
+</ul>
+</li>
+<li class="ng-scope">
+<a href="/sac-cap" title="SẠC - CÁP">
+SẠC - CÁP</a>
+</li>
+<li class="ng-scope">
+<a href="/tai-nghe-loa" title="TAI NGHE - LOA">
+TAI NGHE - LOA</a>
+</li>
+<li class="ng-scope">
+<a href="/bao-da-op-lung" title="BAO DA - ỐP LƯNG">
+BAO DA - ỐP LƯNG</a>
+</li>
+<li class="ng-scope">
+<a href="/tai-nghe" title="THẺ NHỚ">
+THẺ NHỚ</a>
+</li>
+<li class="ng-scope ng-has-child2">
+<a href="/linh-kien-blackberry" title="LINH KIỆN BLACKBERRY">
+LINH KIỆN BLACKBERRY<i aria-hidden="true" class="fa fa-plus fa2">
+</i>
+</a>
+<ul class="ul-has-child2">
+<li class="ng-scope">
+<a href="/man-hinh-blackberry" title="MÀN HÌNH BLACKBERRY">
+MÀN HÌNH BLACKBERRY</a>
+</li>
+</ul>
+</li>
+<li class="ng-scope">
+<a href="/ban-phim-blackberry" title="BÀN PHÍM BLACKBERRY">
+BÀN PHÍM BLACKBERRY</a>
+</li>
+<li class="ng-scope">
+<a href="/camera-blackberry" title="CAMERA BLACKBERRY">
+CAMERA BLACKBERRY</a>
+</li>
+<li class="ng-scope">
+<a href="/bo-vo-blackberry" title="BỘ VỎ BLACKBERRY">
+BỘ VỎ BLACKBERRY</a>
+</li>
+<li class="ng-scope">
+<a href="/pin" title="PIN">
+PIN</a>
+</li>
+<li class="ng-scope">
+<a href="/tin-cong-nghe" title="NEWS &amp; TIPS">
+NEWS &amp; TIPS</a>
+</li>
+<li class="ng-scope">
+<a href="/do-choi-cong-nghe" title="ĐỒ CHƠI SỐ">
+ĐỒ CHƠI SỐ</a>
+</li>
+<ul class="mobile-support">
+<li class="mobile-support">
+<div class="drawer-text-support">
+HỖ TRỢ</div>
+</li>
+<li class="drawer-text-support">
+<i aria-hidden="true" class="fa fa-phone">
+</i>
+HOTLINE:<a href="tel:1900.6729" title="1900.6729">
+1900.6729</a>
+</li>
+<li href="tel:1900.6729" title="1900.6729">
+<i aria-hidden="true" class="fa fa-envelope">
+</i>
+EMAIL:<a href="mailto:cskh.worldphone.vn@gmail.com" title="cskh.worldphone.vn@gmail.com">
+cskh.worldphone.vn@gmail.com</a>
+</li>
+</ul>
+<script type="text/javascript">
+WebFontConfig = {
+				custom: {
+					families: ['FontAwesome'],
+					urls: ['https://use.fontawesome.com/releases/v5.7.2/css/all.css']
+				}
+			};
+			(function() {
+				var wf = document.createElement('script');
+				wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+				wf.type = 'text/javascript';
+				wf.async = 'true';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(wf, s);
+			})();</script>
+<div class="support-cart mini-cart hidden-sm hidden-xs">
+<a class="btn-support-cart" href="/cart">
+<svg xmlns="http://www.w3.org/1999/xlink" height="30px" style="enable-background:new 0 0 435.104 435.104;" version="1.1" viewBox="0 0 435.104 435.104" width="30px" x="0px" xmlspace="preserve" y="0px">
+<g xmlns="http://www.w3.org/1999/xlink" height="30px" style="enable-background:new 0 0 435.104 435.104;" version="1.1" viewBox="0 0 435.104 435.104" width="30px" x="0px" xmlspace="preserve" y="0px">
+<circle class="active-path" cx="154.112" cy="377.684" data-old_color="#Ffffff" data-original="#000000" fill="#FFFFFF" r="52.736"/>
+<path class="active-path" d="M323.072,324.436L323.072,324.436c-29.267-2.88-55.327,18.51-58.207,47.777c-2.88,29.267,18.51,55.327,47.777,58.207     c3.468,0.341,6.962,0.341,10.43,0c29.267-2.88,50.657-28.94,47.777-58.207C368.361,346.928,348.356,326.924,323.072,324.436z" data-old_color="#F8F8F8" data-original="#000000" fill="#FFFFFF"/>
+<path class="active-path" d="M431.616,123.732c-2.62-3.923-7.059-6.239-11.776-6.144h-58.368v-1.024C361.476,54.637,311.278,4.432,249.351,4.428     C187.425,4.424,137.22,54.622,137.216,116.549c0,0.005,0,0.01,0,0.015v1.024h-43.52L78.848,50.004     C77.199,43.129,71.07,38.268,64,38.228H0v30.72h51.712l47.616,218.624c1.257,7.188,7.552,12.397,14.848,12.288h267.776     c7.07-0.041,13.198-4.901,14.848-11.776l37.888-151.552C435.799,132.019,434.654,127.248,431.616,123.732z M249.344,197.972     c-44.96,0-81.408-36.448-81.408-81.408s36.448-81.408,81.408-81.408s81.408,36.448,81.408,81.408     C330.473,161.408,294.188,197.692,249.344,197.972z" data-old_color="#F8F8F8" data-original="#000000" fill="#FFFFFF"/>
+<path class="active-path" d="M237.056,118.1l-28.16-28.672l-22.016,21.504l38.912,39.424c2.836,2.894,6.7,4.55,10.752,4.608     c3.999,0.196,7.897-1.289,10.752-4.096l64.512-60.928l-20.992-22.528L237.056,118.1z" data-old_color="#F8F8F8" data-original="#000000" fill="#FFFFFF"/>
+</g>
+</svg>
+<div class="animated infinite zoomIn kenit-alo-circle">
+</div>
+</a>
+</div>
+<div class="animated infinite pulse kenit-alo-circle-fill">
+</div>
+<span class="cnt crl-bg count_item_pr">
+0</span>
+<div class="top-cart-content hidden-md hidden-sm hidden-xs">
+<ul class="mini-products-list count_li" id="cart-sidebar">
+<li class="list-item">
+<ul class="list-item">
+</ul>
+</li>
+</ul>
+<li class="action">
+<ul class="action">
+<li class="li-fix-1">
+<div class="top-subtotal">
+Tổng tiền thanh toán:<span class="price">
+</span>
+</div>
+</li>
+</ul>
+</li>
+</div>
+<li class="li-fix-2">
+<div class="actions clearfix">
+<a class="btn btn-primary" href="/cart">
+Giỏ hàng</a>
+<a class="btn btn-checkout btn-gray" href="/checkout">
+Thanh toán</a>
+</div>
+</li>
+<div class="" id="menu-overlay">
+</div>
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+			(function(){
+				var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+				s1.async=true;
+				s1.src='https://embed.tawk.to/57d22e31e90e076865003609/default';
+				s1.charset='UTF-8';
+				s1.setAttribute('crossorigin','*');
+				s0.parentNode.insertBefore(s1,s0);
+			})();</script>
+<input name="_promotionbar_params" type="hidden" value="worldphone.mysapo.net"/>
+<input name="_promotionbar_storename" type="hidden" value="WORLDPHONE.VN"/>
+</body>

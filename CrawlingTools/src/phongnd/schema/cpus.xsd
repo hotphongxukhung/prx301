@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid Technologies Online Tools 1.0 (https://www.liquid-technologies.com) -->
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="cpus">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" name="cpu">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="model" type="xs:string" />
+              <xs:element name="codename" type="xs:string" />
+              <xs:element name="mhzTurbo" type="xs:string" />
+              <xs:element name="coresThread" type="xs:string" />
+              <xs:element name="architecture" type="xs:string" />
+              <xs:element name="bit64" type="xs:string" />
+              <xs:element name="bit32Single" type="xs:string" />
+              <xs:element name="bit32Multi" type="xs:string" />
+              <xs:element name="bit64Single4" type="xs:string" />
+              <xs:element name="bit64Multi4" type="xs:string" />
+              <xs:element name="bit64Single5" type="xs:string" />
+              <xs:element name="bit64Multi5" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

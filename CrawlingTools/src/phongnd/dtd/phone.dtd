@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT phone (name, screen, screen-resolution, screen-size, camera-front, camera-back, operating-system, cpu, gpu, ram, rom, battery)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT screen (#PCDATA)>
+<!ELEMENT screen-resolution (#PCDATA)>
+<!ELEMENT screen-size (#PCDATA)>
+<!ELEMENT camera-front (#PCDATA)>
+<!ELEMENT camera-back (#PCDATA)>
+<!ELEMENT operating-system (#PCDATA)>
+<!ELEMENT cpu (#PCDATA)>
+<!ELEMENT gpu (#PCDATA)>
+<!ELEMENT ram (#PCDATA)>
+<!ELEMENT rom (#PCDATA)>
+<!ELEMENT battery (#PCDATA)>
+
+

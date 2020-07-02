@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           elementFormDefault="qualified"
+>
+    <xs:element name="phone">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" type="xs:string"></xs:element>
+                <xs:element name="screen" type="xs:string"></xs:element>
+                <xs:element name="resolution" type="xs:string"></xs:element>
+                <xs:element name="screenSize" type="xs:string"></xs:element>
+                <xs:element name="cameraFront" type="xs:string"></xs:element>
+                <xs:element name="cameraBack" type="xs:string"></xs:element>
+                <xs:element name="operatingSystem" type="xs:string"></xs:element>
+                <xs:element name="cpu" type="xs:string"></xs:element>
+                <xs:element name="gpu" type="xs:string"></xs:element>
+                <xs:element name="ram" type="xs:string"></xs:element>
+                <xs:element name="rom" type="xs:string"></xs:element>
+                <xs:element name="battery" type="xs:string"></xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
